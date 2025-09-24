@@ -164,3 +164,6 @@ checkpoints/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Local path configuration (user-specific)
+config/paths_local.py
